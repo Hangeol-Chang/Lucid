@@ -1,0 +1,4738 @@
+fileFormatVersion: 2
+guid: 40ebeb9ee2973f341ab363b69bd5cf6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1977749536538743169
+    second: flower_bomb_0
+  - first:
+      213: -8220013214198428620
+    second: flower_bomb_1
+  - first:
+      213: 36778025919817907
+    second: flower_bomb_2
+  - first:
+      213: -1094024861028618481
+    second: flower_bomb_3
+  - first:
+      213: 3113291468304196719
+    second: flower_bomb_4
+  - first:
+      213: -2113075142577649969
+    second: flower_bomb_5
+  - first:
+      213: -4696971221439759922
+    second: flower_bomb_6
+  - first:
+      213: -3062608476055188928
+    second: flower_bomb_7
+  - first:
+      213: -3837204051876111222
+    second: flower_bomb_8
+  - first:
+      213: -3793117884935086074
+    second: flower_bomb_9
+  - first:
+      213: 7789494932415948534
+    second: flower_bomb_10
+  - first:
+      213: -1853252862778629638
+    second: flower_bomb_11
+  - first:
+      213: 6154210693590003020
+    second: flower_bomb_12
+  - first:
+      213: 5012351284265313370
+    second: flower_bomb_13
+  - first:
+      213: -3229721717873974085
+    second: flower_bomb_14
+  - first:
+      213: -3252653229432707442
+    second: flower_bomb_15
+  - first:
+      213: -4497276457136093302
+    second: flower_bomb_16
+  - first:
+      213: -1133534197457787139
+    second: flower_bomb_17
+  - first:
+      213: 6852122081304313905
+    second: flower_bomb_18
+  - first:
+      213: 4108420409944451029
+    second: flower_bomb_19
+  - first:
+      213: -2672360355952911454
+    second: flower_bomb_20
+  - first:
+      213: 4877286155753784420
+    second: flower_bomb_21
+  - first:
+      213: -3330329678451487498
+    second: flower_bomb_22
+  - first:
+      213: -5399312099297832750
+    second: flower_bomb_23
+  - first:
+      213: -7341127121308561327
+    second: flower_bomb_24
+  - first:
+      213: -2440804062892649317
+    second: flower_bomb_25
+  - first:
+      213: -8969415357760713421
+    second: flower_bomb_26
+  - first:
+      213: -3271793174487248036
+    second: flower_bomb_27
+  - first:
+      213: 7740344044612040116
+    second: flower_bomb_28
+  - first:
+      213: 2891064965796472039
+    second: flower_bomb_29
+  - first:
+      213: 2413872516107073872
+    second: flower_bomb_30
+  - first:
+      213: -3164714224093704448
+    second: flower_bomb_31
+  - first:
+      213: -7622956382462851065
+    second: flower_bomb_32
+  - first:
+      213: 9082001866672500766
+    second: flower_bomb_33
+  - first:
+      213: 8690200372019237355
+    second: flower_bomb_34
+  - first:
+      213: 3155136629610193551
+    second: flower_bomb_35
+  - first:
+      213: -5641231542995817425
+    second: flower_bomb_36
+  - first:
+      213: -5320326738722339076
+    second: flower_bomb_37
+  - first:
+      213: 2339095101146923748
+    second: flower_bomb_38
+  - first:
+      213: -8160224587389711265
+    second: flower_bomb_39
+  - first:
+      213: -4801781186121401455
+    second: flower_bomb_40
+  - first:
+      213: -5352397749003688960
+    second: flower_bomb_41
+  - first:
+      213: 601938362898305358
+    second: flower_bomb_42
+  - first:
+      213: -7007845841292623237
+    second: flower_bomb_43
+  - first:
+      213: -5309431402990922461
+    second: flower_bomb_44
+  - first:
+      213: 1998554545108471174
+    second: flower_bomb_45
+  - first:
+      213: 918414025546634746
+    second: flower_bomb_46
+  - first:
+      213: 2363958673365385201
+    second: flower_bomb_47
+  - first:
+      213: -4718504533375119140
+    second: flower_bomb_48
+  - first:
+      213: 5166336484235089549
+    second: flower_bomb_49
+  - first:
+      213: -2633631830170878662
+    second: flower_bomb_50
+  - first:
+      213: 958814771986720482
+    second: flower_bomb_51
+  - first:
+      213: -4013172509188198175
+    second: flower_bomb_52
+  - first:
+      213: -7892471465293626748
+    second: flower_bomb_53
+  - first:
+      213: -2470532577790711267
+    second: flower_bomb_54
+  - first:
+      213: -1970497508156423281
+    second: flower_bomb_55
+  - first:
+      213: 4461834971784381123
+    second: flower_bomb_56
+  - first:
+      213: -3844220951686857110
+    second: flower_bomb_57
+  - first:
+      213: -4170392812163673043
+    second: flower_bomb_58
+  - first:
+      213: -3935533569231019043
+    second: flower_bomb_59
+  - first:
+      213: -3026841281355680181
+    second: flower_bomb_60
+  - first:
+      213: -8453593636498396471
+    second: flower_bomb_61
+  - first:
+      213: 3891378810226425473
+    second: flower_bomb_62
+  - first:
+      213: 4506290820090088249
+    second: flower_bomb_63
+  - first:
+      213: 360417533204250258
+    second: flower_bomb_64
+  - first:
+      213: -1701732716042580011
+    second: flower_bomb_65
+  - first:
+      213: -1235235484174149091
+    second: flower_bomb_66
+  - first:
+      213: 3206191953678865453
+    second: flower_bomb_67
+  - first:
+      213: 9167152884312835715
+    second: flower_bomb_68
+  - first:
+      213: 6922874441609512483
+    second: flower_bomb_69
+  - first:
+      213: -4935719949451344511
+    second: flower_bomb_70
+  - first:
+      213: -7413274107907147207
+    second: flower_bomb_71
+  - first:
+      213: 8870128950534379418
+    second: flower_bomb_72
+  - first:
+      213: -3824412674864018167
+    second: flower_bomb_73
+  - first:
+      213: -3436357779327231022
+    second: flower_bomb_74
+  - first:
+      213: 2417067463337577213
+    second: flower_bomb_75
+  - first:
+      213: 304140421054337834
+    second: flower_bomb_76
+  - first:
+      213: 1735735018791196001
+    second: flower_bomb_77
+  - first:
+      213: 5697651203076754917
+    second: flower_bomb_78
+  - first:
+      213: -9157007044265973389
+    second: flower_bomb_79
+  - first:
+      213: -6376479679066265545
+    second: flower_bomb_80
+  - first:
+      213: 5642000704801826291
+    second: flower_bomb_81
+  - first:
+      213: 5102042541113417384
+    second: flower_bomb_82
+  - first:
+      213: -6668069775177457193
+    second: flower_bomb_83
+  - first:
+      213: -4548038075917678386
+    second: flower_bomb_84
+  - first:
+      213: 9029777330533341574
+    second: flower_bomb_85
+  - first:
+      213: 2337430053862705127
+    second: flower_bomb_86
+  - first:
+      213: -5260579256470494405
+    second: flower_bomb_87
+  - first:
+      213: 204603604681147534
+    second: flower_bomb_88
+  - first:
+      213: -3667963374856465669
+    second: flower_bomb_89
+  - first:
+      213: 4469642810335451620
+    second: flower_bomb_90
+  - first:
+      213: -8252827870436011610
+    second: flower_bomb_91
+  - first:
+      213: -512981046542960924
+    second: flower_bomb_92
+  - first:
+      213: 8363374823434260489
+    second: flower_bomb_93
+  - first:
+      213: -8503341707274931712
+    second: flower_bomb_94
+  - first:
+      213: -9143418979867288174
+    second: flower_bomb_95
+  - first:
+      213: -8267191744136412075
+    second: flower_bomb_96
+  - first:
+      213: -1010874719936294662
+    second: flower_bomb_97
+  - first:
+      213: 4673633604930129290
+    second: flower_bomb_98
+  - first:
+      213: 807911124581132867
+    second: flower_bomb_99
+  - first:
+      213: -8839370237826538554
+    second: flower_bomb_100
+  - first:
+      213: 9081806807738092737
+    second: flower_bomb_101
+  - first:
+      213: -753231399967875066
+    second: flower_bomb_102
+  - first:
+      213: 4865152760329543404
+    second: flower_bomb_103
+  - first:
+      213: 2448232576890711469
+    second: flower_bomb_104
+  - first:
+      213: -1788778660154577613
+    second: flower_bomb_105
+  - first:
+      213: -1336075551085924823
+    second: flower_bomb_106
+  - first:
+      213: 87509179507237271
+    second: flower_bomb_107
+  - first:
+      213: -9121836066738130832
+    second: flower_bomb_108
+  - first:
+      213: 1181154413539413619
+    second: flower_bomb_109
+  - first:
+      213: -1320277056622833517
+    second: flower_bomb_110
+  - first:
+      213: -2727011428674664973
+    second: flower_bomb_111
+  - first:
+      213: 3780971267032242501
+    second: flower_bomb_112
+  - first:
+      213: -7727196116676588616
+    second: flower_bomb_113
+  - first:
+      213: 3932049366678054277
+    second: flower_bomb_114
+  - first:
+      213: 2771112066757324471
+    second: flower_bomb_115
+  - first:
+      213: 7370573369912738848
+    second: flower_bomb_116
+  - first:
+      213: 2123811648661104212
+    second: flower_bomb_117
+  - first:
+      213: 1547061430724969307
+    second: flower_bomb_118
+  - first:
+      213: 8746631739579042136
+    second: flower_bomb_119
+  - first:
+      213: 8870968930507222725
+    second: flower_bomb_120
+  - first:
+      213: -8721285521593589484
+    second: flower_bomb_121
+  - first:
+      213: 7055611581820990528
+    second: flower_bomb_122
+  - first:
+      213: -1739118995159514083
+    second: flower_bomb_123
+  - first:
+      213: -1638314353303116554
+    second: flower_bomb_124
+  - first:
+      213: -9130970793596767740
+    second: flower_bomb_125
+  - first:
+      213: 5450262292819930736
+    second: flower_bomb_126
+  - first:
+      213: 3997959261946600351
+    second: flower_bomb_127
+  - first:
+      213: 1774900209057384747
+    second: flower_bomb_128
+  - first:
+      213: 3463603566400694873
+    second: flower_bomb_129
+  - first:
+      213: 3930485050323727666
+    second: flower_bomb_130
+  - first:
+      213: -1336411254740748907
+    second: flower_bomb_131
+  - first:
+      213: -3133310891369268789
+    second: flower_bomb_132
+  - first:
+      213: 3181863058828655136
+    second: flower_bomb_133
+  - first:
+      213: 4197934107088630548
+    second: flower_bomb_134
+  - first:
+      213: -1753504574370676144
+    second: flower_bomb_135
+  - first:
+      213: -2813329700155212869
+    second: flower_bomb_136
+  - first:
+      213: -8279510777142407871
+    second: flower_bomb_137
+  - first:
+      213: -6430093827254829016
+    second: flower_bomb_138
+  - first:
+      213: -1231670361328204133
+    second: flower_bomb_139
+  - first:
+      213: -1357672787301892661
+    second: flower_bomb_140
+  - first:
+      213: 4949576430590008324
+    second: flower_bomb_141
+  - first:
+      213: 1140121433724597115
+    second: flower_bomb_142
+  - first:
+      213: -3730975516762577598
+    second: flower_bomb_143
+  - first:
+      213: 916384550046671811
+    second: flower_bomb_144
+  - first:
+      213: -5171155302575185853
+    second: flower_bomb_145
+  - first:
+      213: 5106160874411819580
+    second: flower_bomb_146
+  - first:
+      213: -3895367784192255526
+    second: flower_bomb_147
+  - first:
+      213: -4965077540406885362
+    second: flower_bomb_148
+  - first:
+      213: -7787274017557049282
+    second: flower_bomb_149
+  - first:
+      213: -1433869467954079982
+    second: flower_bomb_150
+  - first:
+      213: 3945544734970710632
+    second: flower_bomb_151
+  - first:
+      213: 8142160146044640337
+    second: flower_bomb_152
+  - first:
+      213: 4874842745152925583
+    second: flower_bomb_153
+  - first:
+      213: 6927158491813966549
+    second: flower_bomb_154
+  - first:
+      213: -1845497193417793612
+    second: flower_bomb_155
+  - first:
+      213: 36133711325240668
+    second: flower_bomb_156
+  - first:
+      213: 1685204579233158997
+    second: flower_bomb_157
+  - first:
+      213: -1378170838318015022
+    second: flower_bomb_158
+  - first:
+      213: -4477745822159816588
+    second: flower_bomb_159
+  - first:
+      213: 1828690104222100395
+    second: flower_bomb_160
+  - first:
+      213: -9159976601222427469
+    second: flower_bomb_161
+  - first:
+      213: 7240025571574241422
+    second: flower_bomb_162
+  - first:
+      213: -4697913130126926690
+    second: flower_bomb_163
+  - first:
+      213: -1578297462088551755
+    second: flower_bomb_164
+  - first:
+      213: -4873705272413907898
+    second: flower_bomb_165
+  - first:
+      213: -1699442266602415245
+    second: flower_bomb_166
+  - first:
+      213: -273831401633684356
+    second: flower_bomb_167
+  - first:
+      213: 558485692516505299
+    second: flower_bomb_168
+  - first:
+      213: -1883087405700385074
+    second: flower_bomb_169
+  - first:
+      213: -606432233366101568
+    second: flower_bomb_170
+  - first:
+      213: 8103574358504784938
+    second: flower_bomb_171
+  - first:
+      213: 5893591700680898463
+    second: flower_bomb_172
+  - first:
+      213: -701231805494694509
+    second: flower_bomb_173
+  - first:
+      213: 7960983885057719885
+    second: flower_bomb_174
+  - first:
+      213: 4539265746356124378
+    second: flower_bomb_175
+  - first:
+      213: -3689890468337238842
+    second: flower_bomb_176
+  - first:
+      213: 746109844790558651
+    second: flower_bomb_177
+  - first:
+      213: -5143587569274029596
+    second: flower_bomb_178
+  - first:
+      213: 6905508444515671504
+    second: flower_bomb_179
+  - first:
+      213: 8568929971845944075
+    second: flower_bomb_180
+  - first:
+      213: -5224779178083798091
+    second: flower_bomb_181
+  - first:
+      213: -2567427225768812531
+    second: flower_bomb_182
+  - first:
+      213: 7374152461535599320
+    second: flower_bomb_183
+  - first:
+      213: -6500130970117105391
+    second: flower_bomb_184
+  - first:
+      213: -1908745689666480746
+    second: flower_bomb_185
+  - first:
+      213: -1440368607677809645
+    second: flower_bomb_186
+  - first:
+      213: -3218212802010504477
+    second: flower_bomb_187
+  - first:
+      213: 3203763389510664822
+    second: flower_bomb_188
+  - first:
+      213: 4904605380827169777
+    second: flower_bomb_189
+  - first:
+      213: -5519655649659738597
+    second: flower_bomb_190
+  - first:
+      213: 2863357043873585761
+    second: flower_bomb_191
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flower_bomb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181d51499b0627b10800000000000000
+      internalID: 1977749536538743169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c8fae7885aced80800000000000000
+      internalID: -8220013214198428620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8ad727b69a28000800000000000000
+      internalID: 36778025919817907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f61fe6f2e31d0f0800000000000000
+      internalID: -1094024861028618481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64a6827812a43b20800000000000000
+      internalID: 3113291468304196719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_5
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc683f67a59dca2e0800000000000000
+      internalID: -2113075142577649969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_6
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b9d94f8101deb0800000000000000
+      internalID: -4696971221439759922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_7
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a41a241dd6f75d0800000000000000
+      internalID: -3062608476055188928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_8
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c1c35ce338fbac0800000000000000
+      internalID: -3837204051876111222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_9
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600634561632c5bc0800000000000000
+      internalID: -3793117884935086074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_10
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6ab5ade58d91c60800000000000000
+      internalID: 7789494932415948534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_11
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1aa1b175ce746e0800000000000000
+      internalID: -1853252862778629638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_12
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4da758f406286550800000000000000
+      internalID: 6154210693590003020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_13
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a546b1cbfe27f8540800000000000000
+      internalID: 5012351284265313370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_14
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4e1ca9539bd23d0800000000000000
+      internalID: -3229721717873974085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_15
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86e2220f114cd2d0800000000000000
+      internalID: -3252653229432707442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_16
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a870dabc3e67691c0800000000000000
+      internalID: -4497276457136093302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_17
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df665c337a0e440f0800000000000000
+      internalID: -1133534197457787139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_18
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13001c59ab0a71f50800000000000000
+      internalID: 6852122081304313905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_19
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d724b2789a040930800000000000000
+      internalID: 4108420409944451029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_20
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab179f3a6ed9ead0800000000000000
+      internalID: -2672360355952911454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_21
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46482adeae99fa340800000000000000
+      internalID: 4877286155753784420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_22
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc45f26dca48c1d0800000000000000
+      internalID: -3330329678451487498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_23
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 1589
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d052e1a04ac115b0800000000000000
+      internalID: -5399312099297832750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150da6337c31f1a90800000000000000
+      internalID: -7341127121308561327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9414f003a5802ed0800000000000000
+      internalID: -2440804062892649317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d4dbd014c368380800000000000000
+      internalID: -8969415357760713421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_27
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53d32841714892d0800000000000000
+      internalID: -3271793174487248036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_28
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5396206e93b6b60800000000000000
+      internalID: 7740344044612040116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_29
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e420e4d4402f1820800000000000000
+      internalID: 2891064965796472039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_30
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059f3af934ccf7120800000000000000
+      internalID: 2413872516107073872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_31
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fc4493e2da414d0800000000000000
+      internalID: -3164714224093704448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_32
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708410dee81d53690800000000000000
+      internalID: -7622956382462851065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_33
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10f2784490c90e70800000000000000
+      internalID: 9082001866672500766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_34
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be19c29123bc99870800000000000000
+      internalID: 8690200372019237355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_35
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f822db94c0c49cb20800000000000000
+      internalID: 3155136629610193551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_36
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c6108dcc156b1b0800000000000000
+      internalID: -5641231542995817425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_37
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf64179f4076a26b0800000000000000
+      internalID: -5320326738722339076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_38
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e208b7f992267020800000000000000
+      internalID: 2339095101146923748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_39
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c4a35f8fe01ce80800000000000000
+      internalID: -8160224587389711265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_40
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b7410c375ac5db0800000000000000
+      internalID: -4801781186121401455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_41
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004e8020b9678b5b0800000000000000
+      internalID: -5352397749003688960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_42
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41db3970c38a5800800000000000000
+      internalID: 601938362898305358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_43
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b720e0526512fbe90800000000000000
+      internalID: -7007845841292623237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_44
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3251c61054c1156b0800000000000000
+      internalID: -5309431402990922461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_45
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dce6d15ca4cbb10800000000000000
+      internalID: 1998554545108471174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_46
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af59175b0bcdebc00800000000000000
+      internalID: 918414025546634746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_47
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 1362
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffb5ad73e77ec020800000000000000
+      internalID: 2363958673365385201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd01b196021848eb0800000000000000
+      internalID: -4718504533375119140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8619f4f8a382b740800000000000000
+      internalID: 5166336484235089549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_50
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3db085ddc5737bd0800000000000000
+      internalID: -2633631830170878662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_51
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e66aa184f46e4d00800000000000000
+      internalID: 958814771986720482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_52
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e079779dd85e48c0800000000000000
+      internalID: -4013172509188198175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_53
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4824447b40f487290800000000000000
+      internalID: -7892471465293626748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_54
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a21ceb5b7e6bdd0800000000000000
+      internalID: -2470532577790711267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_55
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f834b8bd4f267a4e0800000000000000
+      internalID: -1970497508156423281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_56
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c28f9b544f9bed30800000000000000
+      internalID: 4461834971784381123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_57
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e3798796596aac0800000000000000
+      internalID: -3844220951686857110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_58
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24542145d9cf16c0800000000000000
+      internalID: -4170392812163673043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_59
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd32c54f11d2269c0800000000000000
+      internalID: -3935533569231019043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_60
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b467e4934ef7ef5d0800000000000000
+      internalID: -3026841281355680181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_61
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caa20d606dceaa80800000000000000
+      internalID: -8453593636498396471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_62
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e37061964f00630800000000000000
+      internalID: 3891378810226425473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_63
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bc21220af898e30800000000000000
+      internalID: 4506290820090088249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_64
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e367d36d5700500800000000000000
+      internalID: 360417533204250258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_65
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df0f956c1b3268e0800000000000000
+      internalID: -1701732716042580011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_66
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a97d72fdf8bdee0800000000000000
+      internalID: -1235235484174149091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_67
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d249eb0489eae7c20800000000000000
+      internalID: 3206191953678865453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_68
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3860a278af4483f70800000000000000
+      internalID: 9167152884312835715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_69
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32604cc20adf21060800000000000000
+      internalID: 6922874441609512483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_70
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185c4264bdcc08bb0800000000000000
+      internalID: -4935719949451344511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_71
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 1135
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af79fd972ce1990800000000000000
+      internalID: -7413274107907147207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a979288d847091b70800000000000000
+      internalID: 8870128950534379418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d8a305fe4fceac0800000000000000
+      internalID: -3824412674864018167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_74
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbdc0a6eca9f40d0800000000000000
+      internalID: -3436357779327231022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_75
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa046e3d062b8120800000000000000
+      internalID: 2417067463337577213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_76
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2318cef916883400800000000000000
+      internalID: 304140421054337834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_77
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1655143adc1961810800000000000000
+      internalID: 1735735018791196001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_78
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed877de49f121f40800000000000000
+      internalID: 5697651203076754917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_79
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379e6c0fb96cbe080800000000000000
+      internalID: -9157007044265973389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_80
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73822c314813287a0800000000000000
+      internalID: -6376479679066265545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_81
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f567389fb96c4e40800000000000000
+      internalID: 5642000704801826291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_82
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae1ffbc8a81ec640800000000000000
+      internalID: 5102042541113417384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_83
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d167015ed14673a0800000000000000
+      internalID: -6668069775177457193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_84
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8c9fb677f12e0c0800000000000000
+      internalID: -4548038075917678386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_85
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689905be3a6305d70800000000000000
+      internalID: 9029777330533341574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_86
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e70fcfef38307020800000000000000
+      internalID: 2337430053862705127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_87
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33a949b90baef6b0800000000000000
+      internalID: -5260579256470494405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_88
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84c8c8f4e5e6d200800000000000000
+      internalID: 204603604681147534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_89
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf299888eb6c81dc0800000000000000
+      internalID: -3667963374856465669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_90
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e95cee647c570e30800000000000000
+      internalID: 4469642810335451620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_91
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1d736f6c0187d80800000000000000
+      internalID: -8252827870436011610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_92
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e67c40c47681e8f0800000000000000
+      internalID: -512981046542960924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_93
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9009e32471da01470800000000000000
+      internalID: 8363374823434260489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_94
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0023d1615cf0ef980800000000000000
+      internalID: -8503341707274931712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_95
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 908
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d1278b1ec0c1180800000000000000
+      internalID: -9143418979867288174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55405b009e8054d80800000000000000
+      internalID: -8267191744136412075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_97
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af056cd4cc6a8f1f0800000000000000
+      internalID: -1010874719936294662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_98
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d403070051cd040800000000000000
+      internalID: 4673633604930129290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_99
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aaeb623e6463b00800000000000000
+      internalID: 807911124581132867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_100
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c360380a9f345580800000000000000
+      internalID: -8839370237826538554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_101
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc04f59c2f090e70800000000000000
+      internalID: 9081806807738092737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_102
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600ae33580cfb85f0800000000000000
+      internalID: -753231399967875066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_103
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee1479a8ae748340800000000000000
+      internalID: 4865152760329543404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_104
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad2c11be8ed9f120800000000000000
+      internalID: 2448232576890711469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_105
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33defa3394bfc27e0800000000000000
+      internalID: -1788778660154577613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_106
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e60787d5e457de0800000000000000
+      internalID: -1336075551085924823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_107
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7916d179225e63100800000000000000
+      internalID: 87509179507237271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_108
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0703ab64d6ab86180800000000000000
+      internalID: -9121836066738130832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_109
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ec6eb5ead446010800000000000000
+      internalID: 1181154413539413619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_110
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390d5ea130f6dade0800000000000000
+      internalID: -1320277056622833517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_111
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f58a6fcd85b72ad0800000000000000
+      internalID: -2727011428674664973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_112
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5495a6db555b87430800000000000000
+      internalID: 3780971267032242501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_113
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbc6b3821c73c490800000000000000
+      internalID: -7727196116676588616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_114
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585252ce012719630800000000000000
+      internalID: 3932049366678054277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_115
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be6ed32eb7f47620800000000000000
+      internalID: 2771112066757324471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_116
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0244a90dd69894660800000000000000
+      internalID: 7370573369912738848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_117
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4562848217b497d10800000000000000
+      internalID: 2123811648661104212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_118
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53c110bc24487510800000000000000
+      internalID: 1547061430724969307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_119
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 681
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85904cab937426970800000000000000
+      internalID: 8746631739579042136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cee86ced330c1b70800000000000000
+      internalID: 8870968930507222725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_121
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41128a48605c7f680800000000000000
+      internalID: -8721285521593589484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_122
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0447297f9519ae160800000000000000
+      internalID: 7055611581820990528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_123
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d140267fc786dd7e0800000000000000
+      internalID: -1739118995159514083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_124
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4a1fc96c98349e0800000000000000
+      internalID: -1638314353303116554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_125
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402b231f076484180800000000000000
+      internalID: -9130970793596767740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_126
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eec38bda833ab40800000000000000
+      internalID: 5450262292819930736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_127
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b5fc244ca9b7730800000000000000
+      internalID: 3997959261946600351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_128
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29c1a81656b1a810800000000000000
+      internalID: 1774900209057384747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_129
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ae61ab711311030800000000000000
+      internalID: 3463603566400694873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_130
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23577832453eb8630800000000000000
+      internalID: 3930485050323727666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_131
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595f75f5b0d147de0800000000000000
+      internalID: -1336411254740748907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_132
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc97215685e3484d0800000000000000
+      internalID: -3133310891369268789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_133
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a7b61089f382c20800000000000000
+      internalID: 3181863058828655136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_134
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413b38b24de024a30800000000000000
+      internalID: 4197934107088630548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_135
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0520d9c41ec4aa7e0800000000000000
+      internalID: -1753504574370676144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_136
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb313a1b8b05f8d0800000000000000
+      internalID: -2813329700155212869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_137
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d886e90d4491d80800000000000000
+      internalID: -8279510777142407871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_138
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8204b027bb7b3c6a0800000000000000
+      internalID: -6430093827254829016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_139
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96c7a0055a38eee0800000000000000
+      internalID: -1231670361328204133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_140
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdf7af0bc3982de0800000000000000
+      internalID: -1357672787301892661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_141
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c96f52a8d60b440800000000000000
+      internalID: 4949576430590008324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_142
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73b6f1476682df00800000000000000
+      internalID: 1140121433724597115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_143
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 454
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245efa9f889e83cc0800000000000000
+      internalID: -3730975516762577598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3203f94e6a7bc00800000000000000
+      internalID: 916384550046671811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_145
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340e0a776ad5c38b0800000000000000
+      internalID: -5171155302575185853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_146
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32805df24abcd640800000000000000
+      internalID: 5106160874411819580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_147
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad958b983afd0f9c0800000000000000
+      internalID: -3895367784192255526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_148
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0407c97840881bb0800000000000000
+      internalID: -4965077540406885362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_149
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3012ee2a8b0ee390800000000000000
+      internalID: -7787274017557049282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_150
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217915cd05fd91ce0800000000000000
+      internalID: -1433869467954079982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_151
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a8755380461c630800000000000000
+      internalID: 3945544734970710632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_152
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c55598383cef070800000000000000
+      internalID: 8142160146044640337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_153
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8feab016abe6a340800000000000000
+      internalID: 4874842745152925583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_154
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2f66752f5322060800000000000000
+      internalID: 6927158491813966549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_155
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf1a58941a7366e0800000000000000
+      internalID: -1845497193417793612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_156
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d15f34b6f508000800000000000000
+      internalID: 36133711325240668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_157
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557dd0fd2ac036710800000000000000
+      internalID: 1685204579233158997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_158
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd9046ace0cfdce0800000000000000
+      internalID: -1378170838318015022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_159
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478bcab16e9dbd1c0800000000000000
+      internalID: -4477745822159816588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_160
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab2e6206ffc06910800000000000000
+      internalID: 1828690104222100395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_161
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc4f3510d931e080800000000000000
+      internalID: -9159976601222427469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_162
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e885d66e5ecb97460800000000000000
+      internalID: 7240025571574241422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_163
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c142516e8adceb0800000000000000
+      internalID: -4697913130126926690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_164
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2bf4602d2c81ae0800000000000000
+      internalID: -1578297462088551755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_165
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64412d170ee1d5cb0800000000000000
+      internalID: -4873705272413907898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_166
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bd0e6334e5a68e0800000000000000
+      internalID: -1699442266602415245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_167
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 227
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74e6418ac7233cf0800000000000000
+      internalID: -273831401633684356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6959247c320c700800000000000000
+      internalID: 558485692516505299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_169
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec677364bfdedd5e0800000000000000
+      internalID: -1883087405700385074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_170
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1edd5c8158597f0800000000000000
+      internalID: -606432233366101568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_171
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2444a9c1fda57070800000000000000
+      internalID: 8103574358504784938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_172
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97764a1d6e3ac150800000000000000
+      internalID: 5893591700680898463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_173
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d68406369b446f0800000000000000
+      internalID: -701231805494694509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_174
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e79731aa81b7e60800000000000000
+      internalID: 7960983885057719885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_175
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adab7a07526befe30800000000000000
+      internalID: 4539265746356124378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_176
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccb8ae3b20eaccc0800000000000000
+      internalID: -3689890468337238842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_177
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfb92663f6ba5a00800000000000000
+      internalID: 746109844790558651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_178
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e97e4e8b5e4e98b0800000000000000
+      internalID: -5143587569274029596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_179
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd11d4e75b45df50800000000000000
+      internalID: 6905508444515671504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_180
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b035315c864fae670800000000000000
+      internalID: 8568929971845944075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_181
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b33574050bdd77b0800000000000000
+      internalID: -5224779178083798091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_182
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00226d7a8aae5cd0800000000000000
+      internalID: -2567427225768812531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_183
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad6650890465660800000000000000
+      internalID: 7374152461535599320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_184
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11997a46255eac5a0800000000000000
+      internalID: -6500130970117105391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_185
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6951fd088e5c285e0800000000000000
+      internalID: -1908745689666480746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_186
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c7db9f168c20ce0800000000000000
+      internalID: -1440368607677809645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_187
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2ac84e18c9653d0800000000000000
+      internalID: -3218212802010504477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_188
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6724f2814dd067c20800000000000000
+      internalID: 3203763389510664822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_189
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f34cafab98a01440800000000000000
+      internalID: 4904605380827169777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_190
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16ad875e6e3663b0800000000000000
+      internalID: -5519655649659738597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_bomb_191
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 0
+        width: 216
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a92398f00bcb720800000000000000
+      internalID: 2863357043873585761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
