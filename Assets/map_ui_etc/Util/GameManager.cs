@@ -19,7 +19,7 @@ public class GameManager : MonoBehaviour
 
     public void ResetScene()
     {
-        SceneManager.LoadScene("GameScene");
+        SceneManager.LoadScene("TestScene");
     }
     
 

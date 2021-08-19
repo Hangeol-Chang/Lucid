@@ -16,7 +16,7 @@ public class SummonerBehaviour : MonoBehaviour
     Vector3 playerPos;
     Vector3 Pos;
     private float firetime;
-    private bool canmove;
+    private bool canmove = true;
 
     private float firecool = 30;
     private float firecoolstart = 0;
@@ -43,29 +43,30 @@ public class SummonerBehaviour : MonoBehaviour
         }
         playerPos = player.transform.position;
         direction = player.GetComponent<PlayerBehaviour>().lookdirection;
-        Pos = new Vector3(playerPos.x - direction * 0.5f, playerPos.y + 1, 0);
+        Pos = new Vector3(playerPos.x - direction * 1f, playerPos.y + 0.5f, 0);
+
+
         if (canmove == true)
         {
-                if (Vector3.Distance(transform.position, playerPos) >= 4)
-            {
+            /*if (Vector3.Distance(transform.position, playerPos) >= 4)
+            {*/
                 this.transform.position = Pos;
                 this.rig.velocity = new Vector2(0, 0);
-            }
-
+            //}
+            /*
             yjudge = (Pos.y - this.transform.position.y) / Mathf.Abs(Pos.y - this.transform.position.y);
 
-            if (Pos.x != this.transform.position.x)
-                lookd = -(Pos.x - this.transform.position.x) / Mathf.Abs(Pos.x - this.transform.position.x);
-            else lookd = 1;
+            lookd = Mathf.Sign(-(Pos.x - this.transform.position.x));
+            this.transform.localScale = new Vector3(lookd * 0.5f, 0.5f, 1);
 
-            this.transform.localScale = new Vector3(lookd * 0.7f, 0.7f, 1);
-
+            //===================예전코드
             if (Pos.x == this.transform.position.x) this.rig.velocity = 0.3f * this.rig.velocity;
-
             if (Mathf.Abs(rig.velocity.magnitude) < maxspeed || lookd == Mathf.Sign(rig.velocity.x))
                 rig.AddForce(new Vector2(Pos.x - this.transform.position.x, Pos.y - this.transform.position.y) / 10);
             if (Mathf.Abs(rig.velocity.magnitude) < maxspeed || yjudge == Mathf.Sign(rig.velocity.y))
                 rig.AddForce(new Vector2(Pos.x - this.transform.position.x, Pos.y - this.transform.position.y) / 10);
+            //===================
+            */
         }
     }
     public IEnumerator fire()
